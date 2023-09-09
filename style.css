@@ -1,0 +1,112 @@
+body,
+.navbar-color {
+  background-color: #e4e4e4 !important;
+}
+
+.content {
+  background-color: #fff;
+  padding-bottom: 20px;
+}
+
+.content > hr {
+  border: 1px solid;
+}
+
+.navbar {
+  height: calc(48px + 80px);
+}
+
+.profile-picture {
+  width: 36px;
+  height: 36px;
+  object-fit: cover;
+  padding: 5px;
+  border: 2px solid gray;
+}
+
+.mini-profile .name {
+  width: 100px !important;
+}
+
+.mini-nav {
+  width: 400px;
+}
+
+.brand-black {
+  color: #3b3949;
+}
+
+.brand-orange,
+.text-orange {
+  color: #ff5f26;
+}
+
+.brand-text {
+  font-size: 28px;
+}
+
+.btn-orange {
+  background-color: #ff5f26;
+  color: #fff;
+}
+
+.text-gray {
+  color: #7a7f83;
+}
+
+.btn-orange-bordered {
+  border-color: #ff5f26;
+  color: #ff5f26;
+}
+
+.btn-orange-bordered > img {
+  width: 24px;
+}
+
+.day {
+  margin: 12px;
+  color: var(--primary-500, #ff5f26);
+  font-size: 12px;
+  font-style: normal;
+  font-weight: bold;
+  font-weight: 500;
+  line-height: 100%; /* 12px */
+  background-color: #ffebd3;
+  padding: 6px;
+}
+
+.desc {
+  color: var(--text-colors-secondary, #7a7f83);
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 100%; /* 14px */
+  padding: 1px 4vh 1px;
+}
+
+.bro > img {
+  width: 24px;
+  height: 24px;
+  margin-left: 1001px;
+}
+
+.bre > img {
+  width: 24px;
+  height: 24px;
+  margin-left: 985px; /* lebih kecil 15 sama bro*/
+}
+
+.bruh > img {
+  width: 24px;
+  height: 24px;
+  margin-left: 884px; /* lebih kecil 101 sama bre*/
+}
+
+.bottom > img {
+    height: 25px;
+    width: 50px;
+}
+
+.bottom > div{
+    color: #7A7F83;
+}
